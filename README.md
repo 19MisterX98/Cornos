@@ -1,8 +1,8 @@
 # CornClient
 A small utility mod for Minecraft useful for a variety of tasks ranging from raiding to duping.
 
-<img src="https://img.shields.io/github/stars/AriliusClient/Cornos?color=000000&style=for-the-badge" /><br>
-<img src="https://img.shields.io/github/downloads/AriliusClient/Cornos/total?color=000000&style=for-the-badge&label=Downloads%20via%20releases">
+<img src="https://img.shields.io/github/stars/19MisterX98/Cornos?color=000000&style=for-the-badge" /><br>
+<img src="https://img.shields.io/github/downloads/19MisterX98/Cornos/total?color=000000&style=for-the-badge&label=Downloads%20via%20releases">
 
 # Support
 
@@ -13,10 +13,10 @@ You can open an issue for help or feature requests. If that is not the right thi
 Since so many people ask me how to build this and cant read apparently, I will say the following
 
 **YOU DO NOT NEED TO BUILD IT YOURSELF.
-READ [How to obtain the mod without building](https://github.com/AriliusClient/CornClient/wiki/How-to-obtain-the-mod-without-building%3F)
+READ [How to obtain the mod without building](https://github.com/19MisterX98/CornClient/wiki/How-to-obtain-the-mod-without-building%3F)
 TO DOWNLOAD A PRE-BUILT JAR**
 
-If you want to contribute or really build it yourself, [read this](https://github.com/AriliusClient/CornClient/wiki/Building-and-contributing)
+If you want to contribute or really build it yourself, [read this](https://github.com/19MisterX98/CornClient/wiki/Building-and-contributing)
 
 ## Installing the jarfile
 1. Install the [fabric loader](https://fabricmc.net/use/) 
